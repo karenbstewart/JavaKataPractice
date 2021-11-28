@@ -1,16 +1,6 @@
 import java.util.Arrays;
 
-public class KataPractice {
-    public static String numberToString(int num) {
-        // Return a string of the number here!
-
-//        Integer iInteger = Integer.valueOf(num);
-//        String result = iInteger.toString();
-//        return result;
-
-        return Integer.toString(num);
-    }
-
+public class HighAndLowValuesOfAnArray {
     public static String highAndLow(String numbers) {
         // Code here or
 
